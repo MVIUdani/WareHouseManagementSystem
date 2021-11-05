@@ -7,14 +7,6 @@ WareHouse Management System
 
 3.Manage Store Items 
 
-Technologies
-
-frontend : React 
-
-backend : SpringBoot
-
-database : MySQL
-
 ![HP](https://user-images.githubusercontent.com/56637926/140474308-78ccd827-04df-4943-a50a-24442b72378c.PNG)
 
 
@@ -45,5 +37,14 @@ database : MySQL
 ![Add](https://user-images.githubusercontent.com/56637926/140475047-ca089604-bc3d-44f8-bbcf-d51bc98328ee.PNG)
 
 ![Edit](https://user-images.githubusercontent.com/56637926/140475069-b9eecf3c-1dc2-4182-9d7a-4fdf3cb9aeac.PNG)
+
+
+**Technologies**
+
+frontend : React 
+
+backend : SpringBoot
+
+database : MySQL
 
 
